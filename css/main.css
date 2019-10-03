@@ -1,0 +1,17 @@
+#banner{
+    width:800px
+}
+#content{
+     width:600px;
+     height:400px;
+    background-color:bisque;
+}
+#nav{
+     width:100px
+}
+#supporting{
+     width:100px
+}
+#footer{
+     width:800px
+}
